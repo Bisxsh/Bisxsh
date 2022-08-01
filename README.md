@@ -22,9 +22,9 @@
 
 ### Hi, I'm Bisesh 👋
 
-- 🔬 I'm currently studying Computer Science at the University of Bath
-- 💻 I am interested in frontend development and UI/UX design
-- 📚 I’m currently learning Angular
+- 🔬 Currently studying Computer Science at the University of Bath
+- 💻 Interested in frontend development and UI/UX design
+- 📚 Getting to grips with Angular
   <br>
 
 
