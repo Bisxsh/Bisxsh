@@ -29,7 +29,7 @@
 
 
 <hr>
-<h2 align="center">🛠 Languages & Frameworks & Tools & Abilities 🛠</h2>
+<h2 align="center">🛠 Languages, Frameworks, Tools & Abilities 🛠</h2>
 <br>
 <p align="center">
   <code><img title="Javascript" height="25" src="assets//javascript.svg"></code>
@@ -37,9 +37,9 @@
   <code><img title="CSS" height="25" src="assets//css.svg"></code>
   <code><img title="React" height="25" src="assets//react-original.svg"></code>
   <code><img title="AngularJS" height="25" src="assets//angular.svg"></code>
-  <code><img title="Git" height="25" src="assets//git-original.svg"></code>
   <code><img title="Java" height="25" src="assets//java-original.svg"></code>
   <code><img title="Android" height="25" src="assets//android.svg"></code>
+  <code><img title="Git" height="25" src="assets//git-original.svg"></code>
   <code><img title="GitHub" height="25" src="assets//github.svg"></code>
 </p>
 <hr>
