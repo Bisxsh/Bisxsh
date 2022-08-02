@@ -32,7 +32,7 @@
 <h2 align="center">🛠 Languages, Frameworks, Tools & Abilities 🛠</h2>
 <br>
 <p align="center">
-  <code><img title="Typescript" height="25" src="assets//typecript.svg"></code>
+  <code><img title="Typescript" height="25" src="assets//typescript.svg"></code>
   <code><img title="Javascript" height="25" src="assets//javascript.svg"></code>
   <code><img title="HTML5" height="25" src="assets//html5.svg"></code>
   <code><img title="CSS" height="25" src="assets//css.svg"></code>
