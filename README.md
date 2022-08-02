@@ -22,14 +22,14 @@
 
 ### Hi, I'm Bisesh 👋
 
-- 🔬 I'm currently studying Computer Science at the University of Bath
-- 💻 I am interested in frontend development and UI/UX design
-- 📚 I’m currently learning Angular
+- 🔬 Currently studying Computer Science at the University of Bath
+- 💻 Interested in frontend development and UI/UX design
+- 📚 Getting to grips with Angular
   <br>
 
 
 <hr>
-<h2 align="center">🛠 Languages & Frameworks & Tools & Abilities 🛠</h2>
+<h2 align="center">🛠 Languages, Frameworks, Tools & Abilities 🛠</h2>
 <br>
 <p align="center">
   <code><img title="Typescript" height="25" src="assets//typecript.svg"></code>
@@ -38,9 +38,9 @@
   <code><img title="CSS" height="25" src="assets//css.svg"></code>
   <code><img title="React" height="25" src="assets//react-original.svg"></code>
   <code><img title="AngularJS" height="25" src="assets//angular.svg"></code>
-  <code><img title="Git" height="25" src="assets//git-original.svg"></code>
   <code><img title="Java" height="25" src="assets//java-original.svg"></code>
   <code><img title="Android" height="25" src="assets//android.svg"></code>
+  <code><img title="Git" height="25" src="assets//git-original.svg"></code>
   <code><img title="GitHub" height="25" src="assets//github.svg"></code>
 </p>
 <hr>
@@ -56,7 +56,7 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=bisxsh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisxsh&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true" />
@@ -71,12 +71,12 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Bisxsh/WhosThatPixelmon" title="WhosThatPixelmon"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=bisxsh&repo=WhosThatPixelmon&theme=react&border_color=57BCDA&border_radius=10"></a><a align="right" href="https://github.com/bisxsh/BathHack" title="Bath Hack"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=bisxsh&repo=BathHack&theme=react&border_color=57BCDA&border_radius=10"></a>
+  <a align="left" href="https://github.com/Bisxsh/WhosThatPixelmon" title="WhosThatPixelmon"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=bisxsh&repo=WhosThatPixelmon&theme=react&border_color=57BCDA&border_radius=10"></a><a align="right" href="https://github.com/bisxsh/BathHack" title="Bath Hack"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mansatCode&repo=BathHack&theme=react&border_color=57BCDA&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/bisxsh/unlock-bath" title="Unlock-Bath"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=bisxsh&repo=unlock-bath&theme=react&border_color=57BCDA&border_radius=10"></a>
-  <a align="right" href="https://github.com/Bisxsh/angular-todo-list" title="Angular To-Do List"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=bisxsh&repo=angular-todo-list&theme=react&border_color=57BCDA&border_radius=10"></a>
+  <a align="left" href="https://github.com/bisxsh/unlock-bath" title="Unlock-Bath"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=bisxsh&repo=unlock-bath&theme=react&border_color=57BCDA&border_radius=10"></a>
+  <a align="right" href="https://github.com/Bisxsh/angular-todo-list" title="Angular To-Do List"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=bisxsh&repo=angular-todo-list&theme=react&border_color=57BCDA&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
