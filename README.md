@@ -42,6 +42,7 @@
   <code><img title="Android" height="25" src="assets//android.svg"></code>
   <code><img title="Git" height="25" src="assets//git-original.svg"></code>
   <code><img title="GitHub" height="25" src="assets//github.svg"></code>
+  <code><img title="Figma" height="25" src="assets//figma.svg"></code>
 </p>
 <hr>
 
