@@ -18,13 +18,20 @@
 
 
 </h5>
+
+<h5 align="center">
+<a href="https://bisesh.dev" target="_blank">
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fbisesh.dev" />
+</a>
+</h5>
+
 <br>
 
 ### Hi, I'm Bisesh 👋
 
 - 🔬 Currently studying Computer Science at the University of Bath
 - 💻 Interested in frontend development and UI/UX design
-- 📚 Getting to grips with Angular
+- 📚 Learning the in's and outs of React
   <br>
 
 
@@ -33,12 +40,12 @@
 <br>
 <p align="center">
   <code><img title="Typescript" height="25" src="assets//typescript.svg"></code>
+    <code><img title="Java" height="25" src="assets//java-original.svg"></code>
   <code><img title="Javascript" height="25" src="assets//javascript.svg"></code>
   <code><img title="HTML5" height="25" src="assets//html5.svg"></code>
   <code><img title="CSS" height="25" src="assets//css.svg"></code>
   <code><img title="React" height="25" src="assets//react-original.svg"></code>
   <code><img title="AngularJS" height="25" src="assets//angular.svg"></code>
-  <code><img title="Java" height="25" src="assets//java-original.svg"></code>
   <code><img title="Android" height="25" src="assets//android.svg"></code>
   <code><img title="Git" height="25" src="assets//git-original.svg"></code>
   <code><img title="GitHub" height="25" src="assets//github.svg"></code>
@@ -77,7 +84,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/bisxsh/unlock-bath" title="Unlock-Bath"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=bisxsh&repo=unlock-bath&theme=react&border_color=57BCDA&border_radius=10"></a>
-  <a align="right" href="https://github.com/Bisxsh/angular-todo-list" title="Angular To-Do List"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=bisxsh&repo=angular-todo-list&theme=react&border_color=57BCDA&border_radius=10"></a>
+  <a align="right" href="https://github.com/Bisxsh/portfolio" title="React Portfolio"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=bisxsh&repo=portfolio&theme=react&border_color=57BCDA&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
