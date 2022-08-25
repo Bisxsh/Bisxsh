@@ -31,7 +31,7 @@
 
 - 🔬 Currently studying Computer Science at the University of Bath
 - 💻 Interested in frontend development and UI/UX design
-- 📚 Learning the in's and outs of React
+- 📚 Learning the ins and outs of React
   <br>
 
 
