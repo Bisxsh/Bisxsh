@@ -24,12 +24,6 @@
 </a>
 </h5>
 
-<h5 align="center">
-<a href="https://bisesh.dev" target="_blank">
-<img src="https://img.shields.io/website?url=https%3A%2F%2Fbisesh.dev" />
-</a>
-</h5>
-
 <br>
 
 ### Hi, I'm Bisesh 👋
@@ -49,12 +43,12 @@
   <code><img title="HTML5" height="25" src="assets//html5.svg"></code>
   <code><img title="CSS" height="25" src="assets//css.svg"></code>
   <code><img title="React" height="25" src="assets//react-original.svg"></code>
-  <code><img title="React" height="25" src="assets//react-native.svg"></code>
+  <code><img title="React Native" height="25" src="assets//react-native.svg"></code>
   <code><img title="AngularJS" height="25" src="assets//angular.svg"></code>
   <code><img title="Java" height="25" src="assets//java-original.svg"></code>
-  <code><img title="Java" height="25" src="assets//gatsby.svg"></code>
-  <code><img title="Java" height="25" src="assets//dart.svg"></code>
-  <code><img title="Java" height="25" src="assets//flutter.svg"></code>
+  <code><img title="Gatsby" height="25" src="assets//gatsby.svg"></code>
+  <code><img title="Dart" height="25" src="assets//dart.svg"></code>
+  <code><img title="Flutter" height="25" src="assets//flutter.svg"></code>
   <code><img title="Android" height="25" src="assets//android.svg"></code>
   <code><img title="Git" height="25" src="assets//git-original.svg"></code>
   <code><img title="GitHub" height="25" src="assets//github.svg"></code>
