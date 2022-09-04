@@ -38,17 +38,24 @@
 <br>
 <p align="center">
   <code><img title="Typescript" height="25" src="assets//typescript.svg"></code>
-    <code><img title="Java" height="25" src="assets//java-original.svg"></code>
+  <code><img title="Java" height="25" src="assets//java-original.svg"></code>
   <code><img title="Javascript" height="25" src="assets//javascript.svg"></code>
   <code><img title="HTML5" height="25" src="assets//html5.svg"></code>
   <code><img title="CSS" height="25" src="assets//css.svg"></code>
+  <code><img title="Dart" height="25" src="assets//dart.svg"></code>
+</p>
+
+<p align="center">
   <code><img title="React" height="25" src="assets//react-original.svg"></code>
+  <code><img title="Flutter" height="25" src="assets//flutter.svg"></code>
   <code><img title="React Native" height="25" src="assets//react-native.svg"></code>
   <code><img title="AngularJS" height="25" src="assets//angular.svg"></code>
   <code><img title="Gatsby" height="25" src="assets//gatsby.svg"></code>
-  <code><img title="Dart" height="25" src="assets//dart.svg"></code>
-  <code><img title="Flutter" height="25" src="assets//flutter.svg"></code>
   <code><img title="Android" height="25" src="assets//android.svg"></code>
+  
+</p>
+
+<p align="center">
   <code><img title="Git" height="25" src="assets//git-original.svg"></code>
   <code><img title="GitHub" height="25" src="assets//github.svg"></code>
   <code><img title="Figma" height="25" src="assets//figma.svg"></code>
