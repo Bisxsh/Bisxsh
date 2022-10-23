@@ -93,7 +93,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/bisxsh/unlock-bath" title="Unlock-Bath"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=bisxsh&repo=unlock-bath&theme=react&border_color=57BCDA&border_radius=10"></a>
-  <a align="right" href="https://github.com/Bisxsh/portfolio" title="React Portfolio"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=bisxsh&repo=portfolio&theme=react&border_color=57BCDA&border_radius=10"></a>
+  <a align="right" href="https://github.com/Bisxsh/portfolio-v2" title="React Portfolio"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=bisxsh&repo=portfolio-v2&theme=react&border_color=57BCDA&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
