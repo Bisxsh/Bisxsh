@@ -50,7 +50,6 @@
   <code><img title="React Native" height="25" src="assets//react-native.svg"></code>
   <code><img title="Gatsby" height="25" src="assets//gatsby.svg"></code>
   <code><img title="Flutter" height="25" src="assets//flutter.svg"></code>
-  <code><img title="Angular" height="25" src="assets//angular.svg"></code>
   <code><img title="Android" height="25" src="assets//android.svg"></code>
   
 </p>
