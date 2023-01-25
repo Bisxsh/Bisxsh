@@ -29,8 +29,8 @@
 ### Hi, I'm Bisesh 👋
 
 - 🔬 Currently studying Computer Science at the University of Bath
-- 💻 Interested in frontend development and UI/UX design
-- 📚 Learning the ins and outs of React
+- 💻 Aspiring full-stack developer with an interest in UI/UX
+- 📚 Learning to become one with automated tests
   <br>
 
 <hr>
